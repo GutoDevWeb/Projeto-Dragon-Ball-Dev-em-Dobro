@@ -10,11 +10,15 @@
 <h2>✨ Sobre</h2>
 
 <p>
-  Este é um projeto desenvolvido durante a semana Do Zero ao Programador Contratado, mentorado pelos irmãos gêmeos Beto e Cadu, criadores do Dev em Dobro. Durante a semana foram liberadas aulas e lives com fundamentos de HTML, CSS e JavaScript, de forma prática e divertida.<br>
-
-  <img src="github/preview2.jpg" alt="screenshot do projeto">
-
+  Este é um projeto desenvolvido durante a semana Do Zero ao Programador Contratado, mentorado pelos irmãos gêmeos Beto e Cadu, criadores do Dev em Dobro. Durante a semana foram liberadas aulas e lives com fundamentos de HTML, CSS e JavaScript, de forma prática e divertida.
 </p>
+
+<br>
+
+<p>
+  <img src="github/preview2.jpg" alt="screenshot do projeto">
+</p>
+
 
 <h2>
 📚 Aprendizado </h2>
@@ -22,7 +26,7 @@
 <ul>
   <li>Fundamentos sólidos de HTML, CSS e JavaScript
   <li>Clean Code: Como escrever um código limpo, organizado e fácil de manter</li>
-  <li>Dicas valiosas para  Github</li>
+  <li>Dicas valiosas para o Github</li>
   <li>Introdução a Inteligência Artificial no front-end</li>
 </ul>
 
