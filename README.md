@@ -1,10 +1,17 @@
 <!-- README.md -->
+#
+<div class="titulo"> 
+  <p align="center"><b>PROJETO DRAGON BALL</b>
+  </p>
+</div>
 
-<h1 align="center">PROJETO DRAGON BALL</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-finalizado-brightgreen.svg" alt="status">
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/status-finalizado-brightgreen.svg" alt="status">
+
+  <p align="center">
+ <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="40">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="40">
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" width="40">
 
 
 <h2>✨ Sobre</h2>
@@ -30,18 +37,6 @@
   <li>Introdução a Inteligência Artificial no front-end</li>
 </ul>
 
-<h2>🛠️ Tecnologias</h2>
-
-  - HTML5
-  - CSS3
-  - JavaScript 
-  - Inteligência Artificial
- <p align="center">
- <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="40">
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="40">
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" width="40">
-</p>
-</ul>
 
 
 <h2>📸 Captura de Tela</h2><br>
@@ -52,11 +47,18 @@
 
 <h2>📬 Contato</h2>
 
-<p>📧 Email: guilherme.tavares.cavalcante@gmail.com</p>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/guilhermeatc/">Guilherme Augusto</a>
+<p>Email: guilherme.tavares.cavalcante@gmail.com</p>
+  LinkedIn: <a href="https://www.linkedin.com/in/guilhermeatc/">Guilherme Augusto</a>
 </p>
 
 ---
 
-<p align="center"> Obrigado por visualizar! 🤍
+<p align="center"> Obrigado por visualizar! 😁</p>
 
+<style>
+  .titulo {
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  }
+</style>
