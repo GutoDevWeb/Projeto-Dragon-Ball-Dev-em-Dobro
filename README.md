@@ -1,7 +1,7 @@
 <!-- README.md -->
 #
 <div class="titulo"> 
-  <p align="center"><b>PROJETO DRAGON BALL</b>
+  <p align="center" style="font-size: 30px;"><b>PROJETO DRAGON BALL</b>
   </p>
 </div>
 
@@ -53,12 +53,4 @@
 
 ---
 
-<p align="center"> Obrigado por visualizar! 😁</p>
-
-<style>
-  .titulo {
-  display: flex;
-  flex-direction: column;
-  font-size: 30px;
-  }
-</style>
+<p align="center"><b>Obrigado por visualizar! 😁</b></p>
