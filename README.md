@@ -1,11 +1,4 @@
 <!-- README.md -->
-#
-<div class="titulo"> 
-  <p align="center" style="font-size: 30px;"><b>PROJETO DRAGON BALL</b>
-  </p>
-</div>
-
-
 <p align="center"> <img src="https://img.shields.io/badge/status-finalizado-brightgreen.svg" alt="status">
 
   <p align="center">
