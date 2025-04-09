@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Projeto Dragon Ball</h1>
+<h1 align="center">PROJETO DRAGON BALL</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-finalizado-brightgreen.svg" alt="status">
@@ -10,7 +10,7 @@
 <h2>✨ Sobre</h2>
 
 <p>
-  Este é um projeto desenvolvido durante a semana Do Zero ao Programador Contratado, mentorado pelos irmãos gêmeos Beto e Cadu, criadores do Dev em Dobro. Durante a semana foram liberadas aulas e lives com fundamentos de HTML, CSS e JavaScript, de forma prática e divertida.
+  Este é um projeto desenvolvido durante a semana Do Zero ao Programador Contratado, mentorado pelos irmãos gêmeos Beto e Cadu, criadores do Dev em Dobro. Durante a semana foram liberadas aulas e lives com fundamentos de HTML, CSS e JavaScript, de forma prática e divertida.<br>
 
   <img src="github/preview2.jpg" alt="screenshot do projeto">
 
@@ -40,7 +40,7 @@
 </ul>
 
 
-<h2>📸 Captura de Tela</h2>
+<h2>📸 Captura de Tela</h2><br>
 
 <p align="center">
   <img src="github/preview1.jpg" alt="screenshot do projeto">
