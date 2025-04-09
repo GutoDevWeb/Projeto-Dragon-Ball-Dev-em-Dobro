@@ -44,6 +44,6 @@
   LinkedIn: <a href="https://www.linkedin.com/in/guilhermeatc/">Guilherme Augusto</a>
 </p>
 
----
+#
 
 <p align="center"><b>Obrigado por visualizar! 😁</b></p>
